@@ -28,7 +28,7 @@ Este é um trabalho acadêmico. Sugestões são aceitas.
 
 5. Enjoy :)
 
-![Preview](/image/readme/img.png)
+![Preview](/image/img.png)
 
 ## Tecnologias Utilizadas
 
