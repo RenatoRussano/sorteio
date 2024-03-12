@@ -26,6 +26,10 @@ Este é um trabalho acadêmico. Sugestões são aceitas.
 
 4. Clique no botão "Begin" para reiniciar o sorteio.
 
+5. Enjoy :)
+
+![Preview](/image/readme/img.png)
+
 ## Tecnologias Utilizadas
 
 - HTML
