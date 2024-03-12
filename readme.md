@@ -1,4 +1,4 @@
-![Preview](imagem/logo.png)
+![Preview](/imagem/logo.png)
 
 # Sorteio de Nomes Aleatórios
 
