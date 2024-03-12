@@ -1,4 +1,4 @@
-![Preview](/imagem/logo.png)
+![Preview](/image/logo.png)
 
 # Sorteio de Nomes Aleatórios
 
@@ -19,8 +19,6 @@ Este é um trabalho acadêmico. Sugestões são aceitas.
 ## Como Usar
 
 1. Clone este repositório:
-
-git clone https://github.com/RenatoRussano/sorteio.git
 
 2. Abra o arquivo `index.html` em seu navegador.
 
